@@ -34,8 +34,9 @@ secret-scanner/
 ├── SOUL.md
 ├── RULES.md
 ├── README.md
-├── icon.png
-├── banner.png
+├── assets/
+│   ├── icon.png
+│   └── banner.png
 └── knowledge/
     ├── provider-key-patterns.md
     ├── high-entropy-detection.md
